@@ -1,6 +1,7 @@
 
 # NOTE: Internet connection required
 
+
 import webbrowser
 import openai
 
