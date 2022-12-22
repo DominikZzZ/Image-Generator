@@ -6,7 +6,7 @@ import openai
 
 
 # Here you have to enter your own api key
-# openai.api_key = "api key"
+# openai.api_key = "your api key"
 # To find your api key you need to go to https://beta.openai.com/overview, then sign up / log in
 # Then click on your profile (upper right corner) and enter "View API keys" and generate a new API key
 openai.api_key = "your api key"
