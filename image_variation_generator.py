@@ -28,7 +28,7 @@ try:
         # Read the image file from disk and resize it
         # Here you have to enter your image which you want to make a variation
         # image = Image.open("image.png")
-        # The format must be PNG
+        # Format can be any
         image = Image.open("image.png")
         width, height = 256, 256
         image = image.resize((width, height))
