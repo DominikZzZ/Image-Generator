@@ -19,7 +19,7 @@ in_browser: bool = False
 # openai.api_key = "your api key"
 # To find your api key you need to go to https://beta.openai.com/overview, then sign up / log in
 # Then click on your profile (upper right corner) and enter "View API keys" and generate a new API key
-openai.api_key = "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"
+openai.api_key = "your api key"
 
 
 def check_where_to_open(data: dict):
